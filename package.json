@@ -1,6 +1,5 @@
 {
   "name": "dog-sighting-server",
-  "version": "0.1",
   "description": "Server that serves dog sighting data as a REST API",
   "main": "index.js",
   "scripts": {
